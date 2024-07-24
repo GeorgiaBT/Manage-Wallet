@@ -1,11 +1,12 @@
-# Manage Wallet
- Manage Wallet
+Manage Wallet
 
 O que esse programa irá fazer?
 
 Menu
 1- Acessar conta corrente (ver saldo)
 2- Cadastrar valores de entrada
+
+3- Cadastrar valores de saída
     3.1 - Valor em R$ de saída
     3.2 - Categoria do valor de saída (estudos, lazer, transporte...)
 4 - Cadastrar plano de economia mensal / anual
@@ -20,4 +21,5 @@ Menu
     6.2 - Relatorio de entrada por mes do ano (gráfico,texto)
     
 Banco de dados MySQL
+Começar com programa simples e depois criar interface
 Começar com programa simples e depois criar interface
