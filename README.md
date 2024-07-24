@@ -1,10 +1,12 @@
 Manage Wallet
 
-O que esse programa irá fazer?\n
+O que esse programa irá fazer?
 
-Menu\n
-1- Acessar conta corrente (ver saldo)\n
-2- Cadastrar valores de entrada\n
+Menu
+
+1- Acessar conta corrente (ver saldo)
+
+2- Cadastrar valores de entrada
 
 3- Cadastrar valores de saída
     3.1 - Valor em R$ de saída
